@@ -1,0 +1,23 @@
+# HTTP Cookie File for amazon.com by Genuinous @genuinous.
+# To download cookies for this tab click here, or download all cookies.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://www.amazon.com/"
+#   2) curl --cookie cookies.txt "https://www.amazon.com/"
+#   3) aria2c --load-cookies cookies.txt "https://www.amazon.com/"
+#
+.amazon.com	TRUE	/	TRUE	1632244607	session-id	130-2064789-1823133
+.amazon.com	TRUE	/	TRUE	1632244280	sp-cdn	"L5Z9:ID"
+.amazon.com	TRUE	/	FALSE	0	skin	noskin
+.associates-amazon.com	TRUE	/	TRUE	1603127678	abid	f4ba58d3-0283-cfb3-af44-438416a4f0ab
+.amazon.com	TRUE	/	TRUE	1632244607	ubid-main	131-5777860-3774432
+.amazon.com	TRUE	/	FALSE	2082787204	session-token	"h7CHBruHC+DItJ1BfHciozAq65OdKIUReHS4kOGkxUgooZLLp+hgNGJGMW6vLaJZW9VL3Rf/a7yQbxjPutrApTusfC1A9Bz6OI53LClo4h5XWnTosbjn2W88vJAXVOsb0oPuh7NpK2pWpfHR17CIbzId/fbssK4814PmNFasfaLlZR4co970N9T97MHHoIoqL+DLcNJvX7IvTykJD27ZzXQqfUvxfv18wILUZesf6aQ="
+.amazon.com	TRUE	/	FALSE	1632244590	x-main	"M0pHAjr8pQGSnl6Q4nLsq2RamKgFsJE8ZRXY@wa09Qfu7TcDxIwBd92ct4VbjaRn"
+.amazon.com	TRUE	/	TRUE	1632244473	at-main	Atza|IwEBICtJdamHSF57gLrKwyErk-icpTSzZrJNP0a3DTff6Y_-SZ8O9wJWGc0MyK0YJYleDQ2vpVouyenacLtWpXUfnvOiEfyW3et7ZJfMCAUDM_gdruPWavYP83E2v2Xhp5xFA5aukv_JclJDzQyK-NTpK4la-6w-M8GDM8Ey9DvnBx92BoveH7BRMiZQWUN6Wt4uVi0BBikDqmepeAT2ndTuaM-KKmXwoC1vBC_icHmmGTbaQw
+.amazon.com	TRUE	/	TRUE	1632244473	sess-at-main	"6Hn8lWUKoDZlJrjztIOQm5M3VrMEfrf4YmdKiQ8Fj64="
+.amazon.com	TRUE	/	TRUE	1632244473	sst-main	Sst1|PQEnw6fCZGPPCBqUWOEJx0rGCUp-ZxO9s6XHp5sZdWs3SUXJBmkGxb03OYqx90p_LgthMD2j0RR-F-0ZEHkHK4MrXzQSOrROeH4INXnorZDPIMhItYmykUKLGQXA2j4u9BpYwWhWnlDsIPsPdsWZumzLauzJWmhnJg5_Kw6P3cqLoH1YfAkF7EXh5kKG0kAU1b60ki4EVda_xu1zPuOTkW-XNQOcyJQE1QFtUD0H_KJFFwkdp49Bns-DY50NfBkZju7CDDVoAfhkbXwdpoYaS_DXvVKYpubwyZtZFIZUC97mgtQ
+.amazon.com	TRUE	/	FALSE	1632244590	lc-main	en_US
+www.amazon.com	FALSE	/	FALSE	1632244477	x-amz-captcha-1	1600715674562127
+www.amazon.com	FALSE	/	FALSE	1632244477	x-amz-captcha-2	v9qJ5MNeHB9n0+UHG9e8Vw==
+.amazon.com	TRUE	/	FALSE	1632244590	i18n-prefs	USD
+.amazon.com	TRUE	/	FALSE	1632244607	session-id-time	2082787201l
+www.amazon.com	FALSE	/	FALSE	1630948605	csm-hit	adb:adblk_no&t:1600708605506&tb:s-VFCR9CTS1WG6HKRTA8KF|1600708605049
